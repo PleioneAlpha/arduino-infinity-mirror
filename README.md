@@ -1,2 +1,2 @@
 # Arduino Infinity Mirror [v1.0]
-[![License](https://img.shields.io/badge/license-Creative%20Commons-blue)](https://creativecommons.org/licenses/by-sa/3.0/)
+[![License](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
