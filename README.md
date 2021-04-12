@@ -16,27 +16,9 @@
 ## Showcase and Features List
 
 Photos of the mirror in different states:
-[feature1]: img/Red.png "Red"
-![alt-text][feature1]
 
-[feature2]: img/Green.png "Green"
-![alt-text][feature2]
-
-[feature3]: img/Blue.png "Blue"
-![alt-text][feature3]
-
-[feature4]: img/RainbowGIF.gif "Rainbow"
-![alt-text][feature4]
-
-[feature5]: img/TheatreChaseRainbowGIF.gif "Theatre Chase Rainbow"
-![alt-text][feature5]
-
-[feature6]: img/RainbowWheelGIF.gif "Rainbow Wheel"
-![alt-text][feature6]
-
-[feature7]: img/RainbowCycleWheelGIF.gif "Rainbow Cycle Wheel"
-![alt-text][feature7]
-
+| ![feature1](img/Red.png) | ![feature2](img/Green.png) | ![feature3](img/Blue.png) | ![feature4](img/RainbowGIF.gif) | ![feature5](img/TheatreChaseRainbowGIF.gif) | ![feature6](img/RainbowWheelGIF.gif) | ![feature7](img/RainbowCycleWheelGIF.gif) |
+| ------------------------------ | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 Features List
 * This infinity mirror features a capacitive touch sensor that will allow the user to change the LED colour pattern by tapping the plastic case near the copper tape or aluminum foil.
