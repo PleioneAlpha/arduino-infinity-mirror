@@ -81,6 +81,7 @@ More colours and patterns may be added if desired by modifying the switch statem
 * 1 x Wire Cutter
 * 1 x Small Philips Screwdriver
 
+
 ## Building The Mirror
 
 [pic2]: hardware/InfinityMirrorSketch_bb.jpg "Infinity Mirror Breadboard Sketch"
