@@ -105,7 +105,37 @@ __Note: If your LED strip is not a WS2812 strip then you will need to look up ho
 
 ## Installation
 
-
+1. Navigate to [arduino.cc](https://www.arduino.cc/en/software), download, and install the Arduino IDE.
+2. Navigate to [Adafruit's NeoPixel Uberguide](https://www.arduino.cc/en/software) and install the Adafruit_NeoPixel libary by following the instructions on that page.
+3. Alternatively, open the Arduino IDE and select Tools > Manage Libraries... > and search for "Adafruit NeoPixel".
+4. Install the "Adafruit NeoPixel" library and close the library manager.
+5. Navigate to the [Capacitive Sensing Library](https://playground.arduino.cc/Main/CapacitiveSensor/) on arduino.cc and download the "CapacitiveSensor04.zip".
+6. Open the Arduino IDE and select Sketch > Include Library > Add .Zip Library...
+7. Navigate to where the "CapacitiveSensor04.zip" was saved and select it and click "Open".
+8. Navigate to this github project's [main page](https://github.com/PleioneAlpha/arduino-infinity-mirror) and select the green "Code" button > "Download ZIP".
+9. Save the file and navigate to the directory it is in and extract it.
+10. Navigate to the "build" folder and open "InfinityMirror.ino".
+11. A window may appear stating that the file "InfinityMirror.ino" needs to be inside a sketch folder named "InfinityMirror". It will ask if you want to create this folder, move the file, and continue. Select "OK".
+12. In the Arduino IDE, select File > Save As and navigate to where your arduino projects folder is. In Windows 10 this is usually located in C:\Users\<your username>\Documents\Arduino. Select "Save" and save the file.
+13. Plug the Arduino Nano into your computer via a USB cable. 
+14. In the Arduino IDE select Tools > Board > Arduino Nano.
+15. If necessary, select Tools > Processor > ATmega328P or ATmega328(old bootloader) depending on which Arduino Nano you have.
+16. Select Tools > Port > and ensure that the proper port is selected. It may appear as something similar to "COM3(Arduino Nano)".
+17. In the Arduino IDE select the verify button (a checkmark in the top left corner of the window).
+18. If the code verifies without any issues, click "Upload" (a button in the top left corner of the window with an arrow pointing to the right).
+19. If the code throws an error due to a library not being installed, return to steps 2-7.
+20. Wait for the code to upload.
+21. If there weren't any errors, you may now test the infinity mirror by tapping the capacitive touch sensor.
+22. If the infinity mirror doesn't change colours when the touch sensor is tapped, you will need to uncomment the // DEBUG code in the program. These are located in lines 105 - 115 and 205 - 215. A fast way to decomment the lines is by highlighting all of the lines and selecting Edit > Comment / Uncomment. 
+23. To enable line numbers in the Arduino IDE, select File > Preferences > and check "Display line numbers".
+24. Upload the code to the Arduino again. When the code has been uploaded, select the Serial Monitor button in the top right corner of the Arduino IDE (denoted by a small magnifying glass.
+25. You will see a series of readings from the capacitive touch sensor. Note the approximate value of the sensor when you aren't touching it and when you are touching it.
+26. Close the serial monitor and scroll up to line 60. Change the "CAP_SENSOR_THRESHOLD = 25;" to a value just below the reading you noted in the previous step when you were touching the capacitive touch sensor.
+27. Select upload again and wait for the code to upload to the Arduino.
+28. Once again, select the serial monitor button and watch the values as you press the capacitive touch sensor. If the infinity mirror's colours switch properly when you touch the plastic case near the sensor, you may now close the serial monitor.
+29. Recomment lines 105 - 115 and 205 - 215 by highlighting these lines and selecting Edit > Comment / Uncomment.
+30. Upload the code one more time.
+31. Note: After you bond the top and bottom portions of the case of the infinity mirror with super glue, you may need to repeat steps 22 - 30 in order to re-calibrate it.
 
 ## Credits
 
