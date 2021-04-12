@@ -8,6 +8,7 @@
 ## Table of Contents
 * [Repository Contents](#repository-contents)
 * [Requirements and Materials](#requirements-and-materials)
+* [Building The Mirror](#building-the-mirror)
 * [Installation](#installation)
 
 ## Repository Contents
@@ -57,5 +58,14 @@ Tools:
 * 1 x Wire Stripper
 * 1 x Wire Cutter
 * 1 x Small Philips Screwdriver
+
+## Building The Mirror
+
+[pic2]: hardware/InfinityMirrorSketch_bb.jpg "Infinity Mirror Breadboard Sketch"
+![alt-text][pic2]
+
+[pic3]: hardware/InfinityMirrorSketch_schem.jpg "Infinity Mirror Schematic"
+![alt-text][pic3]
+
 
 ## Installation
