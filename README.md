@@ -173,7 +173,7 @@ Simply tap the plastic near where the capacitive touch sensor has been installed
 
 ## License
 
-This project uses the Creative Commons Attribution-ShareAlike 4.0 International Public License. For more information see the [license](LICENSE.md) file.
+This project uses the Creative Commons Attribution-ShareAlike 4.0 International Public License. For more information see the [license](LICENSE.md) file or [a simplified version of the license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Credits
 
