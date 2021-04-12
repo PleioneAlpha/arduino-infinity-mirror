@@ -45,3 +45,12 @@ Materials:
 * 4 x [100k Ohm Resistors](https://www.adafruit.com/product/2787)
 * Optional but recommended:
   * To increase the sensitivity of the capacitive touch sensor, I recommend using one or more 1M ohm resistor(s) instead of the 100k Ohm Resistors: [1M Ohm Resistors](https://www.amazon.ca/Projects-100EP5141M00-Ohm-Resistors-Pack/dp/B0185FHALI/)
+* 1 x [Adafruit Perma-Proto 1/2 Sized Breadboard](https://www.adafruit.com/product/1609)
+
+Tools:
+* 1 x Soldering Iron Kit
+* 1 x Solder Wire
+* 1 x Hot Glue Gun
+* 1 x Wire Stripper
+* 1 x Wire Cutter
+* 1 x Small Philips Screwdriver
