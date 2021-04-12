@@ -6,6 +6,7 @@
 
 
 ## Table of Contents
+* [Repository Contents](#repository-contents)
 
 ## Repository Contents
 
