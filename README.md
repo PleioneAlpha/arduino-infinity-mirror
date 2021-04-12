@@ -117,5 +117,5 @@ This project was based on two other projects:
 
 Acknowledgements and Thank Yous:
 * Adafruit for providing the [NeoPixel library](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) and example files.
-* Phillip Burgess, Kattni Rembor, laday ada for providing the [Adafruit NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide) which has been very informative and helpful during this project.
+* Phillip Burgess, Kattni Rembor, and laday ada for providing the [Adafruit NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide) which has been very informative and helpful during this project.
 * Paul Badger and Paul Stoffregen for creating and maintaining the [Capacitive Sensing Library](https://playground.arduino.cc/Main/CapacitiveSensor/) that was used in this project.
