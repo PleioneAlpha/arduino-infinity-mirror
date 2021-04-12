@@ -37,7 +37,7 @@ Materials:
 * The following materials can be used instead of a glass two-way mirror:
   * Optional: 1 x [Acrylic (3.175mm thick)](https://www.amazon.com/dp/B004DYW31I/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_2). Note: This must be cut into a 9" Diameter Disc.
   * Optional: 1 x [Gila Privacy Mirror Adhesive](https://www.amazon.com/dp/B000H5XTKG/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_1) Note: This must be applied to the above acrylic. A guide which shows how to apply the film to the acrylic can be found [here](https://learn.adafruit.com/infinity-mirror-coaster/acrylic-setup).
-* 1 x [Cryanoacrylate Super Glue](https://www.canadiantire.ca/en/pdp/lepage-all-plastics-super-glue-2-ml-0671451p.html#srp) __Warning: Use This in a well-ventilated area.__
+* 1 x [Cryanoacrylate Super Glue](https://www.canadiantire.ca/en/pdp/lepage-all-plastics-super-glue-2-ml-0671451p.html#srp) __Warning: Use this in a well-ventilated area.__
 * 1 x [1" x 18' Roll of Copper Tape](https://polymertape.com/products/copper-tape?variant=32412733734996)
 * The following can be used instead of copper tape:
   * Aluminum Foil
