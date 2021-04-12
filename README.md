@@ -12,6 +12,8 @@
 * [Building The Mirror](#building-the-mirror)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Bugs and Known Issues](#bugs-and-known-issues)
+* [License](#license)
 * [Credits](#credits)
 
 ## Showcase and Features List
@@ -164,6 +166,14 @@ __Note: If your LED strip is not a WS2812 strip then you will need to look up ho
 ## Usage
 
 Simply tap the plastic near where the capacitive touch sensor has been installed in order to change colours and patterns.
+
+## Bugs and Known Issues
+
+* 
+
+## License
+
+This project uses the Creative Commons Attribution-ShareAlike 4.0 International Public License. For more information see the [license](LICENSE.md) file.
 
 ## Credits
 
