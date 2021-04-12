@@ -93,11 +93,11 @@ More colours and patterns may be added if desired by modifying the switch statem
 [pic4]: img/InfinityMirrorBuild.jpg "Infinity Mirror Build"
 ![alt-text][pic4]
 
-#### 3D Printing The Case
+### 3D Printing The Case
 
 Use the attached .stl files to 3D print the case. Note that the case is approximately 10 inches in diameter and will require a fairly large printing bed.
 
-#### Assembly and Soldering
+### Assembly and Soldering
 
 1. Drill a hole in the case for the barrel jack adapter. A 9/32" drill bit should be large enough.
 2. Use hot glue to attach the barrel jack adapter to the PCB Case.
