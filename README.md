@@ -38,7 +38,7 @@ Materials:
 * 1 x [9" Diameter Mirror](https://www.amazon.com/gp/product/B005IW5CE4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * 1 x 9" Diameter Glass Two-Way Mirror (3.175mm thick) - Your local glass shop may be able to source and cut one of these.
 * The following materials can be used instead of a glass two-way mirror:
-  * Optional: 1 x [Acrylic (3.175mm thick)](https://www.amazon.com/dp/B004DYW31I/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_2). Note: This must be cut into a 9" Diameter Disc.
+  * Optional: 1 x [Acrylic (3.175mm thick)](https://www.amazon.com/dp/B004DYW31I/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_2). Note: This must be cut into a 9" Diameter Disc. Your local glass shop may be able to do this.
   * Optional: 1 x [Gila Privacy Mirror Adhesive](https://www.amazon.com/dp/B000H5XTKG/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_1) Note: This must be applied to the above acrylic. A guide which shows how to apply the film to the acrylic can be found [here](https://learn.adafruit.com/infinity-mirror-coaster/acrylic-setup).
 * 1 x [Cryanoacrylate Super Glue](https://www.canadiantire.ca/en/pdp/lepage-all-plastics-super-glue-2-ml-0671451p.html#srp) __Warning: Use this in a well-ventilated area.__
 * 1 x [1" x 18' Roll of Copper Tape](https://polymertape.com/products/copper-tape?variant=32412733734996)
@@ -80,20 +80,20 @@ Use the attached .stl files to 3D print the case. Note that the case is approxim
 2. Use hot glue to attach the barrel jack adapter to the PCB Case.
 3. Drill a hole in the case between where the Arduino Nano will sit and where the copper tape or aluminum foil will be installed. This is where the USB cable will be routed. In the picture above, I didn't follow this step and drilled on the far side of the copper tape. This made it difficult to touch the capacitive touch sensor. 
 4. If you purchased an arduino nano with headers then remove the metal portions of the headers. If you purchased a nano without headers, proceed to the next step.
-5. Use scissors or a large wire stripper to strip the Mini-B USB cable. Strip it near the USB Type A head. Remove the shielding and cut the green and white wires. Route the usb cable through the hole in the case, strip the red wire, and connect the red wire to the positive terminal of the barrel jack adapter. Strip and connect the black wire to the negative terminal of the barrel jack adapter.
-6. Connect the 1000uF capacitor to the barrel jack adapter. The shorter leg is typically the cathode (- side). __Make sure you connect the positive and negative ends of the capacitor to the adapter properly. This capacitor won't tolerate reversed polarity. Failure to connect it properly may cause the capacitor to explode or become permanently damaged.__
+5. Use scissors or a large wire stripper to strip the Mini-B USB cable. Remove the USB Type A head and strip the wire at this end. Remove the shielding and cut the green and white wires. Route the usb cable through the hole in the case, strip the red wire, and connect the red wire to the positive terminal of the barrel jack adapter. Strip and connect the black wire to the negative terminal of the barrel jack adapter.
+6. Connect the 1000uF capacitor to the barrel jack adapter. The shorter leg is typically the cathode (- side). If you unsure which side is which then refer to the product specifications or for additional information online. __Make sure you connect the positive and negative ends of the capacitor to the positive and negative ends of the adapter respectfully. This capacitor won't tolerate reversed polarity. Failure to do so may cause the capacitor to explode or become permanently damaged.__
 7. Solder the various circuits and connections on the arduino nano, copper/aluminum foil, and adafruit perma-protoboard. See the above breadboard sketch and schematic images for further information. __Note: Don't connect the LED strip's wires to the protoboard or barrel jack adapter yet. Also, if you chose to use a 1M ohm resistor: Substitute the 1M ohm resistor in place of the four 100k ohm resistors.__
 8. Use hot glue to secure the perma-protoboard and the USB cable to the PCB case.
 9. There are two plastic arms protruding from the case. Push the nano into these arms until it clicks in place.
-10. Secure the nano with hot glue. Optionally: Secure it with fasteners.
+10. Secure the nano with hot glue. Optional: Secure it with fasteners.
 11. Remove the plastic backing on the copper tape and attach it to the case. If you chose to use aluminum foil: glue it to the case.
-12. Place the two way mirror disc into the top 3D-printed ring. Clean the bottom side of the mirror if necessary as it won't be accessible later.
-13. Cut the NeoPixel Strip to an appropriate length. There will be markings on the strip that show you where you can cut.
-14. Use hot glue (if it is in a silicone sleeve use the Cryanoacrylate Super Glue __in a well-ventilated area - preferably outdoors. Avoid breathing in the fumes of the activator as they are toxic. Read the warning labels on the product and follow the necessary precautions.__) to secure the LED strip to the 3D-printed inner ring. See [The Ruiz Brothers' case assembly guide] (https://learn.adafruit.com/infinity-mirror-coaster/case-assembly) if you require more information on how to secure the LED strip to the inner ring.
-15. Slide the inner ring into the top of the case and route the wires through the opening.
+12. Place the two way mirror disc into the top 3D-printed ring. If one side is more reflective than the other, make sure the more reflective side will be facing the LED strip. Clean the bottom side of the mirror if necessary as it won't be accessible later.
+13. Cut the NeoPixel Strip to an appropriate length. There should be markings on the strip that will show you where you can cut. If there aren't refer to the product specifications for more information. __Note: The strip should have arrows indicating the direction of data flow. Be mindful of this and try to cut the LED strip at the end that the arrows are pointing to.__
+14. Use hot glue to secure the LED strip to the 3D-printed inner ring (if it is in a silicone sleeve use the Cryanoacrylate Super Glue __in a well-ventilated area - preferably outdoors. Avoid breathing in the fumes of the activator as they are toxic. Read the warning labels on the product and follow the necessary precautions.__).  See [The Ruiz Brothers' case assembly guide] (https://learn.adafruit.com/infinity-mirror-coaster/case-assembly) if you require more information on how to secure the LED strip to the inner ring.
+15. Slide the inner ring into the top of the case and route the wires through the opening. If there are no wires you will need to solder them onto the LED strip.
 16. Slide the back mirror into the top of the case.
-17. Route the LED strip's cables through the opening on the base of the case.
-__Note: If your LED strip is not a WS2812 strip then you will need to lookup how to connect your strip properly.__
+17. Route the LED strip's cables through the opening in the base of the case.
+__Note: If your LED strip is not a WS2812 strip then you will need to look up how to connect your strip properly. Refer to the product's specifications, or, if you bought the strip from Adafruit, refer to their product page for more information.__
 18. Solder the LED strip's white wire to the perma-protoboard as per the schematic/breadboard pictures above.
 19. Solder the LED strip's black wire to the Arduino's ground pin.
 20. Connect the LED strip's red wire to the + side of the barrel jack adapter.
