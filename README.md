@@ -12,7 +12,6 @@
 * **/src** - Contains the code for the project.
 * **/hardware** - Contains the fritzing breadboard outline, schematic, fusion 360 file for the 3D-printed case, and the associated stl files.
 * **/build** - Contains the .ino file for use in the Arduino IDE.
-* **/libraries** - Contains the necessary libraries.
 * **/img** - Contains image files for this readme.
 * **/LICENSE** - The license file.
 * **/README.md** - The readme file.
