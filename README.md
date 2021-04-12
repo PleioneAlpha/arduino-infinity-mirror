@@ -11,6 +11,7 @@
 * [Requirements and Materials](#requirements-and-materials)
 * [Building The Mirror](#building-the-mirror)
 * [Installation](#installation)
+* [Usage](#usage)
 * [Credits](#credits)
 
 ## Showcase and Features List
@@ -159,6 +160,10 @@ __Note: If your LED strip is not a WS2812 strip then you will need to look up ho
 29. Recomment lines 105 - 115 and 205 - 215 by highlighting these lines and selecting Edit > Comment / Uncomment.
 30. Upload the code one more time.
 31. Note: After you bond the top and bottom portions of the case of the infinity mirror with super glue, you may need to repeat steps 22 - 30 in order to re-calibrate it.
+
+## Usage
+
+Simply tap the plastic near where the capacitive touch sensor has been installed in order to change colours and patterns.
 
 ## Credits
 
