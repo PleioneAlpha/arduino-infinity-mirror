@@ -7,6 +7,8 @@
 
 ## Table of Contents
 * [Repository Contents](#repository-contents)
+* [Requirements and Materials](#requirements-and-materials)
+* [Installation](#installation)
 
 ## Repository Contents
 
@@ -55,3 +57,5 @@ Tools:
 * 1 x Wire Stripper
 * 1 x Wire Cutter
 * 1 x Small Philips Screwdriver
+
+## Installation
