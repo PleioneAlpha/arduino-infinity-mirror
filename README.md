@@ -48,7 +48,7 @@ Materials:
 * 1 x [470 Ohm Resistor](https://www.adafruit.com/product/2781)
 * 4 x [100k Ohm Resistors](https://www.adafruit.com/product/2787)
 * Optional but recommended:
-  * To increase the sensitivity of the capacitive touch sensor, I recommend using one or more 1M ohm resistor(s) instead of the 100k Ohm Resistors: [1M Ohm Resistors](https://www.amazon.ca/Projects-100EP5141M00-Ohm-Resistors-Pack/dp/B0185FHALI/)
+  * To increase the sensitivity of the capacitive touch sensor, I recommend using one or more 1M ohm resistor(s) instead of the 100k Ohm Resistors: [1M Ohm Resistors](https://www.mouser.ca/ProductDetail/Vishay-BC-Components/HVR3700001004FR500?qs=sGAEpiMZZMsPqMdJzcrNwk%2Fg3DPSHRNzI2%252BJzSBJe4c%3D)
 * 1 x [Adafruit Perma-Proto 1/2 Sized Breadboard](https://www.adafruit.com/product/1609)
 
 Tools:
