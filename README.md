@@ -36,7 +36,7 @@ Materials:
 * 1 x [Spool of 22AWG Stranded Wire - Red](https://bc-robotics.com/shop/22-awg-stranded-wire-red/)
 * 1 x [Spool of 22AWG Stranded Wire - Black](https://bc-robotics.com/shop/22-awg-stranded-wire-black/)
 * 1 x [9" Diameter Mirror](https://www.amazon.com/gp/product/B005IW5CE4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-* 1 x 9" Diameter Two-Way Mirror (3.175mm thick) - Your local glass shop may be able to source and cut one of these.
+* 1 x 9" Diameter Glass Two-Way Mirror (3.175mm thick) - Your local glass shop may be able to source and cut one of these.
 * The following materials can be used instead of a glass two-way mirror:
   * Optional: 1 x [Acrylic (3.175mm thick)](https://www.amazon.com/dp/B004DYW31I/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_2). Note: This must be cut into a 9" Diameter Disc.
   * Optional: 1 x [Gila Privacy Mirror Adhesive](https://www.amazon.com/dp/B000H5XTKG/ref=pe_385040_30332190_pe_175190_21431760_M3T1_ST1_dp_1) Note: This must be applied to the above acrylic. A guide which shows how to apply the film to the acrylic can be found [here](https://learn.adafruit.com/infinity-mirror-coaster/acrylic-setup).
