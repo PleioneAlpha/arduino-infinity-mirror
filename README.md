@@ -17,7 +17,7 @@
 * **/hardware** - Contains the fritzing file, breadboard outline, and schematic. Also contains the fusion 360 file for the 3D-printed case, and the associated stl files. Note: The original fusion 360 file was created by [The Ruiz Brothers](https://learn.adafruit.com/infinity-mirror-coaster/3d-printing). I have modified their design and included an updated fusion 360 file and .stl files.
 * **/build** - Contains the .ino file for use with the Arduino IDE.
 * **/img** - Contains image files for this readme.
-* **/LICENSE** - The license file.
+* **/LICENSE.md** - The license file.
 * **/README.md** - This readme file.
 
 ## Requirements and Materials
