@@ -175,6 +175,7 @@ Simply tap the plastic near where the capacitive touch sensor has been installed
 * The circuit for the capacitive touch sensor on the protoboard is sensitive to activation if the user touches the back of the infinity mirror in close proximity to this circuit. In order to fix this, it may be helpful to install some sort of insulating material underneath the protoboard or on the back of the mirror's case in order to mitigate this issue.
 * The capacitive touch sensor seems to be tempermental from time to time. This may be related to the shielding issue above or it may be due to some other unknown issue.
 * __The inner diameter of the 3D-printed case (where the two-way glass and regular mirror are housed) is exactly 9 inches. This means that the two-way mirror and regular mirror won't fit unless the diameter of each is reduced by 2mm. Alternatively, the fusion 360 file and stl files may be modified in order to slightly increase the inner diameter to better accomodate the mirrors.__
+* The barrel plug adapter and the arduino nano are held in place by hot glue (and plastic clips in the case of the nano) but I am worried that these components may come loose in the future due to wear and tear. __I recommend using sturdier methods to fasten the barrel plug adapter, arduino nano, and protoboard to the case. such as fasteners, clips, or other methods.__
 
 ## License
 
