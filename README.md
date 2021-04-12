@@ -4,7 +4,6 @@
 [pic1]: img/InfinityMirror-3.jpg "Infinity Mirror"
 ![alt-text][pic1]
 
-
 ## Table of Contents
 * [Showcase and Features List](#showcase-and-features-list)
 * [Repository Contents](#repository-contents)
@@ -44,6 +43,8 @@ More colours and patterns may be added if desired by modifying the switch statem
 * **/img** - Contains image files for this readme.
 * **/LICENSE.md** - The license file.
 * **/README.md** - This readme file.
+
+__Please read the [Bugs and Known Issues](#bugs-and-known-issues) section before proceeding to build the mirror.__
 
 ## Requirements and Materials
 
@@ -169,7 +170,10 @@ Simply tap the plastic near where the capacitive touch sensor has been installed
 
 ## Bugs and Known Issues
 
-* 
+* Windows 10 seems to have issues connecting to the Arduino Nano via a USB cable. According to some of the forums that I read, certain drivers may need to be installed on the windows machine in order to identify and communicate with the Nano. I wasn't able to solve this issue on windows so I used my linux laptop to upload the sketch to the Nano.
+* The circuit for the capacitive touch sensor on the protoboard is sensitive to activation if the user touches the back of the infinity mirror in close proximity to this circuit. In order to fix this, it may be helpful to install some sort of insulating material underneath the protoboard or on the back of the mirror's case in order to mitigate this issue.
+* The capacitive touch sensor seems to be tempermental from time to time. This may be related to the shielding issue above or it may be due to some other unknown issue.
+* The 3D-printed case's inner diameter (where the two-way glass and regular mirror are housed) is exactly 9 inches. This means that the two-way mirror and regular mirror won't fit unless the diameter of each is reduced by 2mm. Alternatively, the fusion 360 file may be modified to slightly increase the inner diameter to better accomodate the mirrors.
 
 ## License
 
