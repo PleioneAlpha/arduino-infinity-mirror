@@ -112,5 +112,11 @@ __Note: If your LED strip is not a WS2812 strip then you will need to lookup how
 
 This project was based on two other projects:
 * [The Ruiz Brothers' NeoPixel Infinity Mirror Coaster](https://learn.adafruit.com/infinity-mirror-coaster)
-  * The original case was created and shared by them in the form of a fusion 360 file. I have modified this file to increase the size of the case and added/removed other properties.
-  * I have also referenced their guide for information on how to cut the NeoPixels to an appropriate length.
+  * The original case was created and shared by them in the form of a fusion 360 file. I have modified this file to increase the size of the case and added/removed other properties. Many other ideas and procedures from their guide were used in this project.
+* [Ben Finio's Arduino-controlled RGB LED Infinity Mirror](https://www.instructables.com/Arduino-controlled-RGB-LED-Infinity-Mirror/)
+  * Ben's guide inspired me to make a larger infinity mirror than the above project's coaster. Some of the items mentioned and/or used in this project were mentioned in his guide (i.e. the regular 9" mirror, the 22AWG hookup wire, the acrylic sheets, and the mirrored window tint).
+
+Acknowledgements and Thank Yous:
+* Adafruit for providing the [NeoPixel library](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) and example files.
+* Phillip Burgess, Kattni Rembor, laday ada for providing the [Adafruit NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide) which has been very informative and helpful during this project.
+* Paul Badger and Paul Stoffregen for creating and maintaining the [Capacitive Sensing Library](https://playground.arduino.cc/Main/CapacitiveSensor/) that was used in this project.
