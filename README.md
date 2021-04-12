@@ -42,6 +42,7 @@ Materials:
 * The following can be used instead of copper tape:
   * Aluminum Foil
 * 1 x [100pF Capacitor](https://bc-robotics.com/shop/ceramic-capacitor-kit-250-pieces/)
+* 1 x [470 Ohm Resistor](https://www.adafruit.com/product/2781)
 * 4 x [100k Ohm Resistors](https://www.adafruit.com/product/2787)
 * Optional but recommended:
   * To increase the sensitivity of the capacitive touch sensor, I recommend using one or more 1M ohm resistor(s) instead of the 100k Ohm Resistors: [1M Ohm Resistors](https://www.amazon.ca/Projects-100EP5141M00-Ohm-Resistors-Pack/dp/B0185FHALI/)
