@@ -101,7 +101,7 @@ __Note: If your LED strip is not a WS2812 strip then you will need to look up ho
 22. Follow the [installation](#installation) steps and test the mirror to ensure that everything works before proceeding further.
 23. Use the Cryanoacrylate Super Glue to secure the top of the infinity mirror case to the base. Make sure you do so __in a well-ventilated area - preferably outdoors. Avoid breathing in the fumes of the activator as they are toxic. Read the warning labels on the product and follow the necessary precautions.__
 24. Connect the USB Mini-B connector to the Arduino Nano.
-25. Plug the 5VDC 4A switching power supply into the wall and the barrel plug into the barrel jack adapter.
+25. Plug the 5VDC 4A switching power supply into the wall and Infinity Mirror and enjoy!
 
 ## Installation
 
