@@ -52,7 +52,7 @@ Materials:
 * 1 x [Adafruit Perma-Proto 1/2 Sized Breadboard](https://www.adafruit.com/product/1609)
 
 Tools:
-* 1 x Soldering Iron Kit
+* 1 x Soldering Iron
 * 1 x Solder Wire
 * 1 x Hot Glue Gun
 * 1 x Wire Stripper
