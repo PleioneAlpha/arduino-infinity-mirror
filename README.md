@@ -15,12 +15,11 @@
 
 ## Showcase and Features List
 
-Photos of the mirror in different states:
-
 | ![feature1](img/Red.png) | ![feature2](img/Green.png) | ![feature3](img/Blue.png) | ![feature4](img/RainbowGIF.gif) | ![feature5](img/TheatreChaseRainbowGIF.gif) | ![feature6](img/RainbowWheelGIF.gif) | ![feature7](img/RainbowCycleWheelGIF.gif) |
 | ------------------------------ | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
-Features List
+### Features List
+
 * This infinity mirror features a capacitive touch sensor that will allow the user to change the LED colour pattern by tapping the plastic case near the copper tape or aluminum foil.
 * The infinity mirror is fairly large measuring at almost 10 inches in diameter.
 * The assembled infinity mirror conceals the Arduino Nano and all of the wiring and other components except for the power supply and a USB cable that comes out of the case and plugs into the Arduino Nano's Mini-B USB slot. 
