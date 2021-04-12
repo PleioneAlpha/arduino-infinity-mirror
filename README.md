@@ -36,6 +36,8 @@
 
 More colours and patterns may be added if desired by modifying the switch statement in the CycleChoice() function.
 
+__Please read the [Bugs and Known Issues](#bugs-and-known-issues) section prior to building the mirror.__
+
 ## Repository Contents
 
 * **/hardware** - Contains the fritzing file, breadboard outline, and schematic. Also contains the fusion 360 file for the 3D-printed case, and the associated stl files. Note: The original fusion 360 file was created by [The Ruiz Brothers](https://learn.adafruit.com/infinity-mirror-coaster/3d-printing). I have modified their design and included an updated fusion 360 file and .stl files.
@@ -43,8 +45,6 @@ More colours and patterns may be added if desired by modifying the switch statem
 * **/img** - Contains image files for this readme.
 * **/LICENSE.md** - The license file.
 * **/README.md** - This readme file.
-
-__Please read the [Bugs and Known Issues](#bugs-and-known-issues) section before proceeding to build the mirror.__
 
 ## Requirements and Materials
 
