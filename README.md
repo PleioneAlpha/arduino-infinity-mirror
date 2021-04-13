@@ -34,7 +34,7 @@
   * Rainbow Wheel
   * Rainbow Cycle Wheel
 
-__Please read the [Bugs and Known Issues](#bugs-and-known-issues) section prior to building the mirror.__
+__Please read the [Bugs and Known Issues](#bugs-and-known-issues) section prior to building the infinity mirror.__
 
 ## Repository Contents
 
