@@ -34,8 +34,6 @@
   * Rainbow Wheel
   * Rainbow Cycle Wheel
 
-More colours and patterns may be added if desired by modifying the switch statement in the CycleChoice() function.
-
 __Please read the [Bugs and Known Issues](#bugs-and-known-issues) section prior to building the mirror.__
 
 ## Repository Contents
