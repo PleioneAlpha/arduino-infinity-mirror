@@ -99,7 +99,7 @@ __Please read the [Bugs and Known Issues](#bugs-and-known-issues) section prior 
 
 ### 3D Printing The Case
 
-Use the attached .stl files to 3D print the case. Note that the case is approximately 10 inches in diameter and will require a fairly large printing bed.
+Use the .stl files in the hardware folder to print the case. Note that the case is approximately 10 inches in diameter and will require a fairly large printing bed.
 
 ### Assembly and Soldering
 
